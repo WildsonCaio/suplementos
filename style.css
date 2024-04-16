@@ -337,7 +337,7 @@ button:hover {
     #nav.active #menu {
         visibility: visible;
         overflow-y: auto;
-        height: 30vh;
+        height: 40vh;
     }
 
 }
