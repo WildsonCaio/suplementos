@@ -43,6 +43,9 @@ a {
 /* HEADER */
 
 #header {
+    position:sticky;
+    top:0;
+    width:100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -337,7 +340,7 @@ button:hover {
     #nav.active #menu {
         visibility: visible;
         overflow-y: auto;
-        height: 30vh;
+        height: 40vh;
     }
 
     #landing{
