@@ -337,8 +337,11 @@ button:hover {
     #nav.active #menu {
         visibility: visible;
         overflow-y: auto;
-        height: 40vh;
+        height: 30vh;
     }
+
+    #landing{
+        height:40vh;
 
 }
 
